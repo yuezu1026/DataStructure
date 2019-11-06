@@ -2,6 +2,9 @@ package com.wyz.matrix;
 
 import java.text.DecimalFormat;
 
+/*
+ * Matrix
+ */
 public class Matrix {
 	private int row;// 行
 	private int col;// 列
