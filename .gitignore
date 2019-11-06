@@ -1,0 +1,25 @@
+*.iml
+*.ipr
+*.iws
+.DS_Store
+.cache
+.classpath
+.gradle
+.idea
+.project
+.scala_dependencies
+.settings
+.springBeans
+bin
+build
+build*.log
+classes
+genjs
+node_modules
+npm-debug.log
+target
+out
+local_developer_config
+*.log
+*.pid
+© 2019 GitHub, Inc.
