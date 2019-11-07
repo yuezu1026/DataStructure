@@ -15,8 +15,11 @@ public class SingleLinkedListTest {
 		singleList.display();
 		// 删除C
 		singleList.delete("C");
+<<<<<<< HEAD
 		singleList.delete("D");
 		singleList.delete("A");
+=======
+>>>>>>> 2f2f5f915958c7d1e9ddd4af5da7a59c5fc62f37
 		singleList.display();
 		// 查找B
 
